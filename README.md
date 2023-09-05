@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Human 👋
 
 ### 🛠 &nbsp;Languages and Tools :
 
