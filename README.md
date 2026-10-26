@@ -77,7 +77,7 @@ Software engineer with **20+ years of experience**, from banking backends and SO
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoKirylukMaclean&theme=github-compact&hide_border=true&area=true" alt="Contribution graph"/>
+  <img width="100%" src="https://ghchart.rshah.org/2f81f7/SantiagoKirylukMaclean" alt="Contribution graph"/>
 </p>
 
 ---
