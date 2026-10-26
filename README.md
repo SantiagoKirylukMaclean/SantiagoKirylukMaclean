@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <!-- TODO: replace with your LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/santiagokirylukmaclean/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/SantiagoKirylukMaclean?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
   <img src="https://komarev.com/ghpvc/?username=SantiagoKirylukMaclean&style=for-the-badge&color=0A66C2&label=Profile+views" alt="Profile views"/>
 </p>
