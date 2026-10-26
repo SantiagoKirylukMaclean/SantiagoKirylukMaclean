@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Santiago Kiryluk Maclean 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · Backend & Full-Stack</b><br/>
-  Java · Kotlin · Spring · TypeScript · PostgreSQL · AWS
+  <b>Senior Software Engineer · Backend & Distributed Systems</b><br/>
+  20+ years building software · Java · Kotlin · Spring Boot · Microservices · AWS<br/>
+  📍 Barcelona, Spain
 </p>
 
 <p align="center">
@@ -15,31 +16,53 @@
 
 ### 🚀 About me
 
-- 💼 Software engineer building backend services and web applications end to end.
-- ⚙️ Day to day I work with **Java/Kotlin + Spring** on the backend and **TypeScript** on the frontend.
-- 🗄️ Comfortable designing data models and logic in **PostgreSQL** (SQL & PL/pgSQL).
-- ☁️ Deploying and running services on **AWS** and **Docker**.
-- 🌱 Always learning: clean architecture, testing and developer tooling.
-- 🌎 Spanish (native) · English
+Software engineer with **20+ years of experience**, from banking backends and SOA architectures to cloud-native microservices at scale. I enjoy working in agile teams on products that make a real difference to the business, with an analytical, results-oriented mindset.
+
+- 🔭 Currently building **TMS (Team Management System)** at **KoniLab**: a cross-platform Flutter app for sports analytics and logistics, with real-time metrics and an AI assistant (Llama 3.3 on Groq) to query match and attendance data in natural language.
+- 🍔 Previously at **Glovo**, **Zeelo**, **SEAT:CODE** and **InnoIT (client ADP)**, building microservices with Java/Kotlin, Spring Boot, Kafka, Redis, Terraform and Datadog.
+- 🏦 8+ years at **Banco de la Provincia de Buenos Aires**, the last three as **Engineering Manager** leading a team of 8 engineers through a mission-critical branch system migration and API-Led architecture governance.
+- 🧱 I like **Hexagonal Architecture, DDD**, clean APIs, observability and infrastructure as code.
+- ⚽ Off the keyboard I'm a youth football coach at Club Esportiu Monopol.
+- 🌎 Spanish (native) · English (professional)
+
+### 💼 Experience highlights
+
+| Company | Role | Period |
+|---|---|---|
+| **KoniLab** | Senior Software Engineer | 2025 – Present |
+| **InnoIT Consulting** (ADP) | Senior Software Engineer | 2025 – 2026 |
+| **Zeelo** | Senior Software Engineer | 2024 – 2025 |
+| **Glovo** | Senior Software Engineer | 2022 – 2024 |
+| **SEAT:CODE** | Senior Software Engineer | 2020 – 2022 |
+| **Banco Provincia** | Engineering Manager · Senior Software Engineer | 2011 – 2019 |
+| **Santander Río · Thomson Reuters · Exolgan** | Software Engineer | 2006 – 2011 |
+
+🎓 Systems Engineering · Universidad Abierta Interamericana (UAI)
 
 ### 🛠️ Tech stack
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,php,bash,html,css&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,ts,php,python,bash&theme=dark" alt="Languages"/>
 </p>
 
-**Frameworks & libraries**
+**Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,symfony&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=spring,flutter,fastapi,symfony&theme=dark" alt="Frameworks"/>
 </p>
 
-**Databases, cloud & tooling**
+**Data & messaging**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,git,github,gradle,maven,idea&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mysql&theme=dark" alt="Data"/>
+</p>
+
+**Cloud, DevOps & tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,jenkins,gradle,maven,git&theme=dark" alt="DevOps"/>
 </p>
 
 ### 📊 GitHub stats
